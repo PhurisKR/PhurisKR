@@ -35,3 +35,5 @@
 
 
 <a href="https://phuris.vercel.app/"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phurisKR&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=dark" /> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=phurisKR&show_icons=true&hide_title=true&hide_border=true&theme=dark" /></a>
+
+<a href="https://phuris.vercel.app/"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phurisKR&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=cobalt" /> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=phurisKR&show_icons=true&hide_title=true&hide_border=true&theme=cobalt" /></a>
