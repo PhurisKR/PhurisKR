@@ -30,9 +30,8 @@
 [![Cute_web](https://github-readme-stats.vercel.app/api/pin/?username=PhurisKR&repo=Cute_web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PhurisKR/Cute_web)
 
 
-[![EasyTravel](https://github-readme-stats.vercel.app/api/pin/?username=PhurisKR&repo=EasyTravel&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PhurisKR/EasyTravel)
-[![Cute_web](https://github-readme-stats.vercel.app/api/pin/?username=PhurisKR&repo=Cute_web&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PhurisKR/Cute_web)
-
+[![EasyTravel](https://github-readme-stats.vercel.app/api/pin/?username=PhurisKR&repo=EasyTravel&border_color=ffffff&bg_color=0D1117&title_color=1F6FEB&text_color=8B949E&icon_color=1F6FEB)](https://github.com/PhurisKR/EasyTravel)
+[![Cute_web](https://github-readme-stats.vercel.app/api/pin/?username=PhurisKR&repo=Cute_web&border_color=ffffff&bg_color=0D1117&title_color=1F6FEB&text_color=8B949E&icon_color=1F6FEB)](https://github.com/PhurisKR/Cute_web)
 
 
 <a href="https://phuris.vercel.app/"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phurisKR&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=dark" /> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=phurisKR&show_icons=true&hide_title=true&hide_border=true&theme=dark" /></a>
